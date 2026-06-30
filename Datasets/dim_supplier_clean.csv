@@ -1,0 +1,19 @@
+supplier_id,supplier_name,supplier_category,supplier_region,critical_supplier_flag
+SUP001,Johnson Materials,Logistics,South America,1
+SUP002,Lee Logistics,Coating,North America,1
+SUP003,Miller Co,Raw Material,Europe,0
+SUP004,Thomas Co,Components,Europe,0
+SUP005,Padilla Industries,Coating,North America,1
+SUP006,Alexander Logistics,Coating,Asia,0
+SUP007,Scott Materials,Packaging,North America,0
+SUP008,Jimenez Industries,Components,Europe,0
+SUP009,Lewis Logistics,Packaging,South America,0
+SUP010,Ward Logistics,Components,North America,0
+SUP011,Hughes Logistics,Components,North America,1
+SUP012,Brown Supply,Raw Material,North America,0
+SUP013,Dunlap Logistics,Coating,South America,0
+SUP014,Orozco Materials,Coating,Asia,1
+SUP015,Ward Materials,Logistics,Asia,1
+SUP016,Hanson Industries,Logistics,Europe,0
+SUP017,Johnson Materials,Coating,North America,1
+SUP018,Gray Logistics,Logistics,Europe,0

@@ -1,0 +1,26 @@
+product_id,product_family,product_group,specification,diameter_group,grade,application_type
+PROD001,Tubing,TUB-3,API 5CT,Small,P110,Offshore
+PROD002,Tubing,TUB-1,Premium Spec,Small,J55,Pipeline
+PROD003,Line Pipe,LIN-4,Premium Spec,Medium,Q125,Industrial
+PROD004,Tubing,TUB-4,API 5L,Large,P110,Pipeline
+PROD005,Accessories,ACC-4,ISO 11960,Large,Q125,Industrial
+PROD006,Casing,CAS-5,ISO 11960,Medium,X70,Industrial
+PROD007,Line Pipe,LIN-1,API 5CT,Medium,J55,Pipeline
+PROD008,Casing,CAS-5,ISO 11960,Small,X70,Pipeline
+PROD009,Accessories,ACC-2,API 5CT,Large,J55,Onshore
+PROD010,Line Pipe,LIN-1,Premium Spec,Medium,L80,Industrial
+PROD011,Casing,CAS-4,API 5CT,Large,X65,Pipeline
+PROD012,Premium Connections,PRE-1,API 5L,Medium,X70,Offshore
+PROD013,Tubing,TUB-5,API 5L,Small,L80,Onshore
+PROD014,Casing,CAS-4,ISO 11960,Medium,J55,Offshore
+PROD015,Casing,CAS-2,API 5L,Large,X65,Industrial
+PROD016,Tubing,TUB-2,ISO 11960,Large,X70,Pipeline
+PROD017,Casing,CAS-4,Premium Spec,Small,J55,Industrial
+PROD018,Premium Connections,PRE-2,API 5L,Medium,J55,Industrial
+PROD019,Line Pipe,LIN-2,API 5CT,Medium,J55,Industrial
+PROD020,Accessories,ACC-5,API 5CT,Small,Q125,Pipeline
+PROD021,Tubing,TUB-2,Premium Spec,Small,L80,Industrial
+PROD022,Tubing,TUB-2,API 5CT,Medium,P110,Onshore
+PROD023,Line Pipe,LIN-1,ISO 11960,Small,X65,Offshore
+PROD024,Accessories,ACC-5,Premium Spec,Large,Q125,Industrial
+PROD025,Line Pipe,LIN-5,API 5CT,Medium,Q125,Pipeline

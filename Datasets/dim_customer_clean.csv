@@ -1,0 +1,62 @@
+customer_id,customer_name,customer_region,customer_segment,industry_segment,strategic_account_flag
+CUST001,Foley-Diaz,Europe,Standard,Infrastructure,1
+CUST002,Schwartz LLC,North America,Standard,Energy,0
+CUST003,Ryan and Sons,North America,Key Account,Infrastructure,0
+CUST004,"Hawkins, Conrad and Reed",North America,Distributor,Infrastructure,0
+CUST005,Petty LLC,Asia,Standard,Energy,0
+CUST006,Lopez LLC,Asia,Standard,Infrastructure,0
+CUST007,"Barry, Patterson and Davis",Europe,Standard,Manufacturing,0
+CUST008,Steele LLC,Middle East,Standard,Energy,0
+CUST009,"Day, Jordan and Perez",South America,Distributor,Services,1
+CUST010,Lindsey-Hamilton,Europe,Standard,Energy,0
+CUST011,Harris Group,Europe,Standard,Energy,0
+CUST012,Escobar-Perkins,Europe,Distributor,Services,0
+CUST013,Nelson and Sons,Europe,Standard,Manufacturing,0
+CUST014,"Riley, Jenkins and Weber",Asia,Standard,Infrastructure,0
+CUST015,"Oconnell, Wilson and Zhang",North America,Standard,Services,0
+CUST016,"Crawford, Clay and Briggs",Middle East,Standard,Manufacturing,1
+CUST017,"Martinez, Hudson and Black",Europe,Standard,Infrastructure,0
+CUST018,Mathews PLC,North America,Key Account,Energy,1
+CUST019,Smith Inc,North America,Standard,Infrastructure,0
+CUST020,"Becker, Kennedy and Gibbs",Europe,Standard,Services,0
+CUST021,"Poole, Lang and Walker",South America,Standard,Energy,1
+CUST022,"Berry, Massey and Scott",Europe,Standard,Infrastructure,0
+CUST023,Rogers Ltd,North America,Standard,Services,1
+CUST024,"Williams, Dickerson and Wong",North America,Key Account,Energy,1
+CUST025,"House, Rice and Marshall",North America,Key Account,Manufacturing,1
+CUST026,Tate-Myers,Europe,Standard,Infrastructure,1
+CUST027,Powell LLC,Europe,Standard,Infrastructure,0
+CUST028,Rowe Inc,North America,Standard,Services,0
+CUST029,Wallace Ltd,North America,Distributor,Infrastructure,0
+CUST030,"Smith, Stewart and Reed",North America,Standard,Energy,1
+CUST031,"Sutton, Vance and Davis",Asia,Distributor,Infrastructure,1
+CUST032,Jordan Inc,North America,Distributor,Infrastructure,1
+CUST033,"Miller, Moore and Williams",Europe,Key Account,Energy,1
+CUST034,Johnson Ltd,North America,Standard,Services,0
+CUST035,"Richard, Kelly and White",Middle East,Standard,Infrastructure,0
+CUST036,Allen Ltd,Europe,Distributor,Manufacturing,0
+CUST037,Terry-Johnson,North America,Distributor,Services,1
+CUST038,Powell-Bailey,North America,Standard,Services,0
+CUST039,Walker Inc,Europe,Standard,Energy,0
+CUST040,"Jacobs, Serrano and Rogers",Europe,Distributor,Services,0
+CUST041,Nguyen-Thomas,Europe,Key Account,Infrastructure,1
+CUST042,Mitchell-Aguirre,North America,Distributor,Infrastructure,0
+CUST043,Horn-Dawson,North America,Key Account,Services,0
+CUST044,Haney-Gardner,Europe,Standard,Energy,0
+CUST045,Castro Inc,North America,Key Account,Manufacturing,0
+CUST046,Evans Group,North America,Key Account,Services,1
+CUST047,Wright-Glover,Europe,Distributor,Manufacturing,0
+CUST048,"Wright, Patton and Guerra",South America,Key Account,Energy,0
+CUST049,"Barrett, Gonzalez and Evans",South America,Standard,Energy,1
+CUST050,Williams PLC,Europe,Standard,Energy,0
+CUST051,Lopez-Wilson,Europe,Standard,Energy,0
+CUST052,Ramsey-Hubbard,North America,Distributor,Manufacturing,0
+CUST053,"Campbell, Mclean and Lara",Europe,Standard,Infrastructure,0
+CUST054,"Graham, Perez and Myers",Europe,Standard,Services,0
+CUST055,"Barry, Warren and Simpson",Europe,Key Account,Manufacturing,1
+CUST056,Jackson LLC,North America,Standard,Infrastructure,0
+CUST057,"Gonzalez, Hall and Logan",North America,Standard,Manufacturing,0
+CUST058,Mckinney-Mcdonald,North America,Standard,Infrastructure,0
+CUST059,"Pugh, Briggs and Bean",Europe,Standard,Energy,0
+CUST060,Hurst LLC,North America,Standard,Infrastructure,0
+CUST061,AAC,North America,Standard,Infrastructure,0

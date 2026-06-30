@@ -1,0 +1,9 @@
+location_id,region,mill,country,plant_type
+LOC001,South America,Siderca,Argentina,Manufacturing
+LOC002,North America,Bay City,USA,Manufacturing
+LOC003,Europe,Dalmine,Italy,Manufacturing
+LOC004,Europe,Silcotub,Romania,Manufacturing
+LOC005,North America,Hickman,USA,Service
+LOC006,Latam,Tamsa,Mexico,Manufacturing
+LOC007,Asia,SPIJ,Indonesia,Manufacturing
+LOC008,North America,McCarty,USA,Service

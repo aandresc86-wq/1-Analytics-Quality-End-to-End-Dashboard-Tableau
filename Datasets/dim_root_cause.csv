@@ -1,0 +1,13 @@
+root_cause_id,root_cause_category,root_cause_subcategory,controllable_flag,process_stage
+RC001,Data Entry Error,Wrong field completion,1,Administrative
+RC002,Loading Error,Incorrect order loading,1,Administrative
+RC003,Supplier Issue,Out-of-spec component,0,Incoming
+RC004,Process Deviation,Machine parameter drift,1,Process
+RC005,Inspection Failure,Missed defect at final inspection,1,Final Inspection
+RC006,Documentation Error,Missing or incorrect paperwork,1,Administrative
+RC007,Material Non-Conformity,Chemical or physical deviation,0,Incoming
+RC008,Handling Damage,Transport or movement damage,1,Logistics
+RC009,Packaging Failure,Insufficient protection,1,Packaging
+RC010,Logistics Delay,Delayed or mishandled shipment,0,Logistics
+RC011,Customer Misuse,Improper storage or application at site,0,Customer Site
+RC012,Specification Mismatch,Requirement not aligned with delivered product,1,Commercial
