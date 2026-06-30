@@ -183,7 +183,9 @@ This structure enables:
 
 --- 
 
-## 📝 Notes This project was developed as a **portfolio initiative to bridge industrial domain knowledge with data analytics capabilities**. It emphasizes: 
+## 📝 Notes 
+
+This project was developed as a **portfolio initiative to bridge industrial domain knowledge with data analytics capabilities**. It emphasizes: 
 - Real-world applicability
 - Structured analytical thinking
 - Business-oriented decision support The goal is not only to showcase technical skills but also the ability to **solve business problems using data**.
